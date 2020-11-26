@@ -2,23 +2,21 @@
   "coin": [
     {
       "id": 1,
-      "nome": "luca"
+      "value": "999",
+      "name": "xxxx",
+      "description": "xxxx"
     },
     {
       "id": 2,
-      "nome": "luca"
+      "value": "20",
+      "name": "xxxx",
+      "description": "xxxx"
     },
     {
       "id": 3,
-      "nome": "luca"
-    },
-    {
-      "id": 4,
-      "nome": "luca"
-    },
-    {
-      "id": 5,
-      "nome": "luca"
+      "value": "30",
+      "name": "xxxx",
+      "description": "xxxx"
     }
   ]
 }
